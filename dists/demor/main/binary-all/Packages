@@ -1,0 +1,28 @@
+Package: Ttool
+Installed-Size: 25 
+Maintainer: Kalua
+Architecture: all
+Depends: python
+Description: this tool is only for testing
+Version: 0.1
+Filename: dists/demor/main/binary-all/Ttool.deb
+Size: 872
+MD5Sum: f67ec3e26b96ea00857d64a04490239e
+SHA1: 0d052854cd4726628e298953a66004d5823cf161
+SHA256: 42eb6dbc3f2bfb5a6fe02564e6d6e14b7a481cd2a8167338978363b1ccbcd239
+SHA512: 0d9e8990a01495e76331ccc77d05ed1d65e2a08617ff8854ed94581bdb2cda08701a095b49aa99248047deebd313f4ff0d55ea22473d083da7ac68c190ea8d93
+
+Package: boss
+Installed-Size: 25
+Maintainer: Amma
+Architecture: all
+Depends: python
+Description: joke
+Version: 0.1
+Filename: dists/demor/main/binary-all/boss.deb
+Size: 856
+MD5Sum: 3d67c4807b0c60d09a5a545485e50181
+SHA1: 9b482258f52e6ed2cf966dc03258b0ca01c05b3e
+SHA256: a520d108629cf8df313c4b46bd94d37c661511b5dd3a4005ae02961351dedacd
+SHA512: c2309ac3a00d01bb32c28a498a49d6ea3ceafe7e52694f963d34943dd09340828e616be4b2f00203560a5b8780a8b20089892f402b91a873261ad485f1f67e52
+

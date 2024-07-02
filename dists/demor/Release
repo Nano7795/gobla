@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: demor repository
+Suite: demor
+Date: Tue, 02 Jul 2024 05:17:16 UTC
+Components: main
+MD5Sum:
+ f40209330df9c9a700cbbe22fbbdcdb0 971 main/binary-all/Packages
+ c0feafe92db7b8ed44370a5c4497831e 652 main/binary-all/Packages.xz
+ 688ccb23ba5b4e8330a7d0d6fab434d9 173 main/Contents-all
+ 60c56e26c60900426f7551fb59f0a6ab 132 main/Contents-all.xz
+SHA1:
+ 4bbb7f857439470852c94c2919cfa506206c215f 971 main/binary-all/Packages
+ 1c24192fcee5581507a649bff122a0f1ab8b8b4e 652 main/binary-all/Packages.xz
+ c46f871224447c9d4fc4facdff9d8dc42257ad5f 173 main/Contents-all
+ 9b7450cd4fe283e9d2a1967aa27517f39e5a999e 132 main/Contents-all.xz
+SHA256:
+ 58a7720b7fc7b27f8e0d016b61ededc234f4c04ffb304f03752e261e5e32744c 971 main/binary-all/Packages
+ b6ab72f6dd0fed19bb0dcf842deb1a94e382b41c9d5b85ac20882d2be5a4fb56 652 main/binary-all/Packages.xz
+ 2522b1b92997fe5bdcc055248daf44455e53e179f7869b98b71cfbabba5ea74b 173 main/Contents-all
+ 1b6a16cc40b1332cf8f6cf2e9709a120d3e3159fa7d0f27e4f4b9c07e03dd42b 132 main/Contents-all.xz
+SHA512:
+ 55772e1faa8ab5fc6fb46ab8e67c803cb6fcf86b979dec8b0521723924e26de7589ad0b26e610e7979ea2bc93cc5ebe58329bce5060fe4875899aebabe1371ba 971 main/binary-all/Packages
+ d34d98ff669ab3c1269857564ecdf7d87f9d12941551dc17ce357a9d1e626a61cb9202c6abc4411e289d78b129c40b2f1a799b13de0e20affa1ce68d11046654 652 main/binary-all/Packages.xz
+ 21729ccd6e845fa8ae155c4e7776c6329e9e252b61b1e8e84bcdbeca95934b8b12b44b3da02befa6d4f2161e0f23f259f0daae858f6e6956b2c2f57126947e78 173 main/Contents-all
+ 14123fae843a03e7f2bfa26a58a6202af11c53a7efed74d9ce6173468ab5d424eddae325b9bd2e28c1bdec32c445dfa72e5792760673908c8e44d7a14ab4f247 132 main/Contents-all.xz
